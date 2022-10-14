@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Gaëtan Janssens @janssens
+- 👀 I’m interested in permaculture, organic farming, low-tech
+- 🌱 I’m currently learning to grow a food forest
+- 💞️ I’m looking to collaborate on any ethical and low carbon low energy project
+- 📫 send me an email at contact [@] plopcom.fr
