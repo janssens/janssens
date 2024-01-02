@@ -1,5 +1,8 @@
 - 👋 Hi, I’m Gaëtan Janssens @janssens
+- 🕹️ I am a web developer #css #html #js #php [#leanweb](https://leanweb.dev/) 
 - 👀 I’m interested in permaculture, organic farming, low-tech
 - 🌱 I’m currently learning to grow a food forest
 - 💞️ I’m looking to collaborate on any ethical and low carbon low energy project
+- 🧭 work schedule: Monday to Friday, from 9 AM to 5 PM
+- 🎯 [my business page](https://www.malt.fr/profile/gaetanjanssens)
 - 📫 send me an email at contact [@] plopcom.fr
